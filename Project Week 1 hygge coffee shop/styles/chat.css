@@ -1,0 +1,7 @@
+.chat-bg {
+  background: url(../img/chat/chat.png) no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}

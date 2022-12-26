@@ -1,0 +1,7 @@
+.profil-bg {
+  background: url(../img/profil/profil-bg.png) no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}

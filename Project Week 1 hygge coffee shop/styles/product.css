@@ -1,0 +1,34 @@
+.select-b {
+  background: #ffffff;
+  border: 1px solid #9f9f9f;
+  border-radius: 10px;
+  border: none;
+  width: 76vh;
+  height: 5vh;
+}
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color 0.3s;
+  border: 1px solid #ddd;
+}
+
+.pagination a.active {
+  background-color: #4caf50;
+  color: white;
+  border: 1px solid #4caf50;
+}
+
+.card-p {
+  background: #ffcb65;
+  border-radius: 20px;
+  width: 40vh;
+  margin: auto;
+  padding: 10px;
+}
