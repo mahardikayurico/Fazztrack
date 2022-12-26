@@ -1,0 +1,68 @@
+/* Section 1 */
+.home-bg {
+  background: url(../img/home/home-bg.png) no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.start-text-1 {
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 70px;
+  color: #ffffff;
+}
+
+.start-text-2 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+/* Section 1 end */
+
+/* Section 2 */
+.card-home {
+  background-color: #ffffff;
+  margin-top: -13vh;
+  border-radius: 10px;
+  padding: 4rem;
+}
+/* Section 3 end*/
+
+/* Section 4  */
+.info-home-1 {
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 50px;
+  color: #0b132a;
+}
+
+.info-home-2 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #4f5665;
+}
+
+/* section 5 */
+.product-home {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  color: #0b132a;
+  text-align: center;
+}
+
+/* section 5 end */
+
+/* section 7  */
+.partner-home {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  text-align: center;
+  color: #000000;
+}
+/* section 7 end */
